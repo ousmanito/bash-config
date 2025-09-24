@@ -6,7 +6,6 @@ export PATH=/bin:/usr/bin:/usr/.local/bin:/sbin:/home/obathily/.local/bin:${PATH
 export PATH=/home/obathily/.cargo/bin/:${PATH}
 export CURL_CA_BUNDLE="/etc/ssl/certs/ca-certificates.crt"
 export REQUESTS_CA_BUNDLE="/etc/ssl/certs/ca-certificates.crt"
-export NODE_TLS_REJECT_UNAUTHORIZED=0
 export EDITOR="nvim"
 export LS_COLORS=$LS_COLORS:'ow=1;34:'
 export PATH=$PATH:/usr/local/go/bin
